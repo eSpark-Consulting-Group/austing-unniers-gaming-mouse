@@ -82,6 +82,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MTFTCWWN
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for GamingMouse-v1.1\Design Rule Check - GamingMouse-v1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
