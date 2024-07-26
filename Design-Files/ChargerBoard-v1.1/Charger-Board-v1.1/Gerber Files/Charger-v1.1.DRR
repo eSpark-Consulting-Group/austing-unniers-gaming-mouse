@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Charger-v1.1.PcbDoc   7/26/2024  9:58:46 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Charger-v1.1-RoundHoles.TXT
+ASCII SlotHoles File : Charger-v1.1-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             5         PTH        0.18inch (4.59mm)
+T2      12mil (0.3mm)                                             Round             143       PTH        17.08inch (433.82mm)
+T3      24mil (0.6mm)                                             Slot              4         PTH        1.50inch (38.19mm)
+T4      39mil (1mm)                                               Round             18        PTH        2.40inch (60.96mm)
+T5      24mil (0.62mm)                                            Round             2         NPTH       0.23inch (5.78mm)
+T6      47mil (1.19mm)                                            Round             2         NPTH       0.10inch (2.54mm)
+T7      226mil (5.75mm)                                           Round             4         NPTH       4.57inch (116.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              178
+
+Total Processing Time (hh:mm:ss) : 00:00:01

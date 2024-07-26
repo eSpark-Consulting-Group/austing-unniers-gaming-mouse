@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\LiberDB\Documents\GitHub\austingunniers-gamingmouse\Design-Files\ChargerBoard-v1.1\Charger-Board-v1.1\Charger-v1.1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=charger-v1.1-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=charger-v1.1-slotholes.txt|DrillLayers=gtl,gbl
