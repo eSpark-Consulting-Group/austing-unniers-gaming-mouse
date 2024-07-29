@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: GamingMouse-v1.1.PcbDoc   7/29/2024  9:26:03 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : GamingMouse-v1.1.TXT
+ASCII RectHoles File : GamingMouse-v1.1-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             5         PTH        0.20inch (5.14mm)
+T2      12mil (0.3mm)                                             Round             114       PTH        20.89inch (530.71mm)
+T3      28mil (0.7mm)                                             Round             16        PTH        1.40inch (35.66mm)
+T4      28mil (0.72mm)                                            Round             4         PTH        0.52inch (13.14mm)
+T5      35mil (0.9mm)                                             Round             7         PTH        1.52inch (38.70mm)
+T6      45mil (1.15mm)                                            Round             15        PTH        4.42inch (112.29mm)
+T7      47mil (1.2mm)                                             Round             5         PTH        1.07inch (27.19mm)
+T8      72mil (1.82mm)                                            Rectangle         2         PTH        0.87inch (22.16mm)
+T9      35mil (0.9mm)                                             Round             2         NPTH       0.27inch (6.80mm)
+T10     102mil (2.6mm)                                            Round             4         NPTH       6.46inch (163.97mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              174
+
+Total Processing Time (hh:mm:ss) : 00:00:00
