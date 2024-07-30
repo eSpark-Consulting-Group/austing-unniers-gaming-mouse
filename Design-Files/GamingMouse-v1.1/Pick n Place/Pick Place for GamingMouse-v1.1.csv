@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\LiberDB\Documents\GitHub\austingunniers-gamingmouse\Design-Files\GamingMouse-v1.1\Project Outputs for GamingMouse-v1.1\Pick Place for GamingMouse-v1.1.csv
+C:\Users\MarsVirgo\Downloads\austingunniers-gamingmouse\austingunniers-gamingmouse-Development-v1.1\Design-Files\GamingMouse-v1.1\Project Outputs for GamingMouse-v1.1\Pick Place for GamingMouse-v1.1.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       29/07/24
-Time:       21:33
-Revision:   1163a5b18705e2e4999129da3fb40574cc9b2467
+Date:       30/07/24
+Time:       19:09
+Revision:   Not in VersionControl
 Variant:    No variations
 Units used: mm
 
@@ -62,8 +62,8 @@ Units used: mm
 "L2","TopLayer","38,1727mm","5,0287mm","180","38,1727mm","5,0287mm","38,5227mm","5,0287mm"
 "L3","TopLayer","39,0727mm","3,8621mm","0","39,0727mm","3,8621mm","38,7227mm","3,8621mm"
 "L4","TopLayer","24,3529mm","3,9831mm","180","24,3529mm","3,9831mm","25,8239mm","3,9831mm"
-"LED1","TopLayer","29,0661mm","13,0265mm","0","29,0661mm","13,0265mm","28,3161mm","13,0265mm"
-"LED2","TopLayer","29,0661mm","15,6003mm","0","29,0661mm","15,6003mm","28,3161mm","15,6003mm"
+"LED1","TopLayer","29,0661mm","15,6003mm","0","29,0661mm","15,6003mm","28,3161mm","15,6003mm"
+"LED2","TopLayer","29,0661mm","13,0159mm","0","29,0661mm","13,0159mm","28,3161mm","13,0159mm"
 "LED3","TopLayer","29,0661mm","10,4315mm","0","29,0661mm","10,4315mm","28,3161mm","10,4315mm"
 "LED4","TopLayer","49,2217mm","9,7755mm","270","49,2217mm","9,7755mm","48,6217mm","9,1255mm"
 "P3","TopLayer","23,3469mm","33,8721mm","0","23,3469mm","33,8721mm","23,3469mm","33,8721mm"
@@ -81,8 +81,8 @@ Units used: mm
 "R6","BottomLayer","63,0812mm","28,1037mm","90","63,0812mm","28,1037mm","63,0812mm","27,6338mm"
 "R7","TopLayer","22,3866mm","25,0669mm","0","22,3866mm","25,0669mm","21,9167mm","25,0669mm"
 "R8","TopLayer","21,0231mm","26,1845mm","0","21,0231mm","26,1845mm","20,2611mm","26,1845mm"
-"R9","BottomLayer","29,3462mm","13,0265mm","0","29,3462mm","13,0265mm","28,8763mm","13,0265mm"
-"R10","BottomLayer","29,3462mm","15,6003mm","0","29,3462mm","15,6003mm","28,8763mm","15,6003mm"
+"R9","BottomLayer","29,3462mm","15,6003mm","0","29,3462mm","15,6003mm","28,8763mm","15,6003mm"
+"R10","BottomLayer","29,3462mm","13,0349mm","0","29,3462mm","13,0349mm","28,8763mm","13,0349mm"
 "R11","BottomLayer","29,3462mm","10,4315mm","180","29,3462mm","10,4315mm","29,8161mm","10,4315mm"
 "R12","TopLayer","42,4228mm","7,6896mm","180","42,4228mm","7,6896mm","43,1848mm","7,6896mm"
 "R13","TopLayer","32,9530mm","7,6955mm","0","32,9530mm","7,6955mm","32,4831mm","7,6955mm"
