@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\MarsVirgo\Downloads\austingunniers-gamingmouse\austingunniers-gamingmouse-Development-v1.1\Design-Files\ChargerBoard-v1.1\Charger-Board-v1.1\Charger-v1.1.PcbDoc
+DRC Rules Export File for PCB: C:\Users\LiberDB\Documents\GitHub\austingunniers-gamingmouse\Design-Files\ChargerBoard-v1.1\Charger-v1.1.PcbDoc
 RuleKind=Width|RuleName=Width_RF2|Scope=Board|Minimum=103.77
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

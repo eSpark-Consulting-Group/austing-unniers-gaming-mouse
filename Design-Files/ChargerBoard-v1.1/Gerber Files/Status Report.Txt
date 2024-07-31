@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Charger-Board-v1.1.PrjPcb]
+   Generated File[Charger-v1.1-RoundHoles.TXT]
+   Generated File[Charger-v1.1-SlotHoles.TXT]
+   Generated File[Charger-v1.1.LDP]
+   Generated File[Charger-v1.1.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:29:19 PM On 7/31/2024
